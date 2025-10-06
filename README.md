@@ -21,8 +21,7 @@ It combines **aesthetic design**, **smooth animations**, and **interactive secti
 ---
 
 ## 🎨 Live Demo
-
-🔗 **Portfolio Link:** [View Live on Netlify](https://your-deployment-link.netlify.app)  
+ 
 📂 **GitHub Repository:** [Interactive-Digital-Portfolio](https://github.com/3sha507/AICTE-FWD-PROJECT)
 
 ---
