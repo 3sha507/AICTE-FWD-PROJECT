@@ -22,7 +22,8 @@ It combines **aesthetic design**, **smooth animations**, and **interactive secti
 
 ## 🎨 Live Demo
  
-📂 **GitHub Repository:** [Interactive-Digital-Portfolio](https://github.com/3sha507/AICTE-FWD-PROJECT)
+📂 **GitHub Repository:** [Interactive-Digital-Portfolio](https://github.com/3sha507/AICTE-FWD-PROJECT)>
+🔗🔗 **Deployment Link:** [MY-DIGITAL-SPACE](https://3sha507.github.io/AICTE-FWD-PROJECT/)>
 
 ---
 
